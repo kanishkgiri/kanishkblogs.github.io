@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am B.tech First Year Student at IIT Patna.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kanishkgiri08+blog@gmail.com](mailto:kanishkgiri08+blog@gmail.com)
