@@ -9,7 +9,7 @@ name: Kanishk Giri
 description: B.tech First year student-IIT Patna
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media-exp1.licdn.com/dms/image/C4E03AQEWOzED0zIX_w/profile-displayphoto-shrink_800_800/0/1605966570823?e=1629936000&v=beta&t=MYUlxzUyEei684eUVzVAQvVxvZQQDDvPF3WLW7sGR9U
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://media-exp1.licdn.com/dms/image/C4E03AQEWOzED0zIX_w/profile-displ
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:kanishkgiri08+blog@gmail.com
+  email: kanishkgiri08+blog@gmail.com
   facebook:
   flickr:
   github: kanishkgiri
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-3XX0424KCX
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
